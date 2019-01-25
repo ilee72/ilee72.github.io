@@ -31,6 +31,7 @@ There were not as many bad questions. The majority of questions were specific, h
 ## Interest in questions 
 I saw interest in the questions as a great way to see if your question was great or poor. The amount of views and answers were only a implication of the type of question you had. It showed the amount of interest that the question generated and was a great indicator of a great question. Within these responses to the question, many showed enthusiasm in the challenge of the problem and loved to explain and show the corrections or solutions to such questions. Within these responses, others would ask more questions or provide alternate solutions and it would eventually snowball into other topics. When the amount of alternate solutions and the asking of more questions occurs, I saw that the questions that created more interest in depth of a topic were the greatest.
 
+## What I thought was a Great Question
 ```
 https://stackoverflow.com/questions/51972474/override-bash-completion-for-git-clone
 
@@ -93,6 +94,8 @@ Moreover, the author continues dialogue with those that were helping him.
 }
 ```
 I saw this question generate a lot of interest and work into this problem. I feel that this was a great question and the amount of technical knowledge shared between the author and those answering his question to be amicable and productive.
+
+## Maybe this could've been researched...
 
 ```
 https://stackoverflow.com/questions/54360790/intellij-take-standard-input-from-a-file
