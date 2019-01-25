@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Electrical Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96826",
+      "postalCode": " ",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -30,10 +30,10 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "geospatial",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "ARCGIS",
+        "GEOINT"
       ]
     },
     {
@@ -60,9 +60,6 @@
       "keywords": [
         "C",
         "C++",
-        "CSS",
-        "Javascript",
-        "Html",
         "Python"
       ]
     },
@@ -70,20 +67,21 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows 10",
+        "Kali Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Wireshark",
+        "MATLAB",
+        "Quartus II",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Electrical Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -92,69 +90,32 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "US Army Reserves - MIRC - B Co. 301st MI BN",
+      "position": "Geospatial/Imagery/CIAC Analyst",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Collection of data, exploitation and analysis, and dissemination of products to customers for geospatial analysis",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Training for Combat Readiness",
+        "Provide support for the warfighter"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+ 
+  
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "NSF Scholarship for Service",
+      "date": "2018-Present",
+      "awarder": "National Science Foundation",
+      "summary": "Scholarships awarded to those that join the program to recruit and train the next generation of IT, security, intelligence, and engineering professionals to help protect the government's critical information infrastructure"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Geospatial Intelligence Analyst Course Distinguished Honor Graduate",
+      "date": "March 19, 2016",
+      "awarder": "Center of Intelligence Excellence",
+      "location": "Fort Huachuca, AZ"
+      "summary": "Soldier graduates at the top of their class with the highest GPA and PT score. Has never failed a course and received demerits"
     }
   ],
   "references": [
