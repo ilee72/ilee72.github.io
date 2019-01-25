@@ -33,5 +33,75 @@ I saw interest in the questions as a great way to see if your question was great
 
 ```
 https://stackoverflow.com/questions/51972474/override-bash-completion-for-git-clone
+
+The author of this question provides code for a bash completion. Due to my limited technical knowledge, I did not understand as much as I should have. This question shows a very specific amount of technical jargon that would attract those within this subject.
+
+The author is working on a default completion for a git clone that would give tab completion for --* options.
+The author asks of making a custom clone tab completion work for the model as well as the default completion continuing to work.
+With this question, the author provides context to his question as well as evidence of work such as his code:
+_git_clone ()
+{
+    case "$cur" in
+    --*)
+        __gitcomp_builtin clone
+        return
+        ;;
+    esac
+}
+----------------------------------------------------------------------------------
+# https://github.com/scop/bash-completion/blob/d2f14a7/bash_completion#L498
+__ltrim_colon_completions() {
+    if [[ "$1" == *:* && "$COMP_WORDBREAKS" == *:* ]]; then
+        # Remove colon-word prefix from COMPREPLY items
+        local colon_word=${1%"${1##*:}"}
+        local i=${#COMPREPLY[*]}
+        while [[ $((--i)) -ge 0 ]]; do
+            COMPREPLY[$i]=${COMPREPLY[$i]#"$colon_word"}
+        done
+    fi
+}
+
+
+_git_clone() {
+    case "$cur" in
+    --*)
+        __gitcomp_builtin clone
+        return
+        ;;
+    *)
+        argc=0
+        for word in "${words[@]}"; do
+            case "$word" in
+            git|clone|--*)
+                continue
+                ;;
+            *)
+                argc=$((argc + 1))
+                ;;
+            esac
+        done
+
+        if [ $argc -le 1 ]; then
+            __gitcomp "https://github.com/git/git https://github.com/python/cpython"
+            __ltrim_colon_completions "$cur"
+        fi
+        ;;
+    esac
+----------------------------------------------------------------------------------
+The author also provides what he worked on and unacceptable solutions. This has allowed many in the response section providing great answers.
+Moreover, the author continues dialogue with those that were helping him.
+}
 ```
-I saw this question generate a lot of interest and work into this problem. Although it seems rough, the author of the question provided context to his question as well as edits to his inforation in his question. 
+I saw this question generate a lot of interest and work into this problem. I feel that this was a great question and the amount of technical knowledge shared between the author and those answering his question to be amicable and productive.
+
+```
+https://stackoverflow.com/questions/54360790/intellij-take-standard-input-from-a-file
+
+I didn't find this question to be poor. It was a standard question, however I found this question to be something more simple that maybe if the author did more research that he may have been able to find his answer himself.
+
+The author needs to take a standard input from a file in IntelliJ Idea with the code:
+$ java BinarySearch tinyW.txt < tinyT.txt
+He asks how this is achievable with IntelliJ.
+
+Although he recieved an answer, there was not as much views or answers. The answer seemed very sparse and quick as if it was a regurgitation of instructions rather than a discussion.
+```
