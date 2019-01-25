@@ -1,4 +1,4 @@
-------
+---
 layout: essay
 type: essay
 title: There are no such things as dumb questions
