@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/CC.jpg
 title: Cyber Corps
-permalink: projects/Cyber Corps
+permalink: projects/cybercorp
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-01
 labels:
