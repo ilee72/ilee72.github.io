@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CC.jpg
+image: images/cclogo.jpg
 title: Cyber Corps
 permalink: projects/cybercorp
 # All dates must be YYYY-MM-DD format!
