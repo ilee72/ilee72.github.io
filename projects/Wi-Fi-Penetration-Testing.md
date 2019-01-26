@@ -51,7 +51,7 @@ This book is available online as a PDF for everyone to download and use. Some of
 # Future Direction
 We plan on using what we learned from these two books to start capturing packets from a UAS using Wi-Fi communication with it's controller. From the packets we gather, we can provide analysis and software reverse engineering to try and decrypt the packets and eventually use the same keys to send packets of our own to disrupt or even take control of the UAS. Our goal is a Parrot Drone.
 <p align="center">
-  <img width="460" height="300" src="../images/parrot_pf726000_bebop_drone_2_with_1206693.jpg">
+  <img class ="ui circular image" width="460" height="300" src="../images/parrot_pf726000_bebop_drone_2_with_1206693.jpg">
 </p>
 
  
