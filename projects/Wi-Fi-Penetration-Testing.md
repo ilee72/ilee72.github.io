@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kali2.0-website-logo-2015.png
+image: images/kalilogo.jpg
 title: Wi-Fi Penetration and Traffic Analysis for Cybersecurity
 permalink: projects/wi-fipen
 # All dates must be YYYY-MM-DD format!
