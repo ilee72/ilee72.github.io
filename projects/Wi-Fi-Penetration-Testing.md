@@ -53,7 +53,7 @@ We plan on using what we learned from these two books to start capturing packets
 <p align="center">
   <img width="460" height="300" src="../images/parrot_pf726000_bebop_drone_2_with_1206693.jpg">
 </p>
-  <img class="ui small center circular floated image" src="../images/parrot_pf726000_bebop_drone_2_with_1206693.jpg">
+
  
 
 
