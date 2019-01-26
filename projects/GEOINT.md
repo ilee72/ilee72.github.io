@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/images.jpg
 title: GEOINT
-permalink: projects/GEOINT
+permalink: projects/geoint
 # All dates must be YYYY-MM-DD format!
 date: 2016-011-01
 labels:
