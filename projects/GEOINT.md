@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/images.jpg
+image: images/geolog.png
 title: GEOINT
 permalink: projects/geoint
 # All dates must be YYYY-MM-DD format!
@@ -25,7 +25,7 @@ summary: My career in the U.S Army Reserves brought me to GEOINT, Geospatial Int
  
 
   <p align="center">
-  <img class="ui medium image" width="460" height="300" src="../images/images.jpg">
+  <img class="ui medium image" width="460" height="300" src="../images/geospatial.jpg">
 </p>
   
 
