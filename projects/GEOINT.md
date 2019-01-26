@@ -15,7 +15,7 @@ labels:
 summary: My career in the U.S Army Reserves brought me to GEOINT, Geospatial Intelligence, which is a discipline of the intelligence fields that deals with Geospatial and Imagery Data that is exploited and disseminated.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/images.jpg">
+<img class="ui medium right floated rounded image" src="../images/NGA.png">
 
   
 # What is GEOINT and IMINT?
@@ -23,8 +23,10 @@ summary: My career in the U.S Army Reserves brought me to GEOINT, Geospatial Int
 ### Geospatial Intelligence in the words of the National Geospatial Agency is:
 > *GEOINT is the exploitation and analysis of imagery and geospatial information that describes, assesses and visually depicts physical features and geographically referenced activities on the Earth.*
  
- <img class="ui image" src="../images/NGA.png">
-  
+ <img class="ui small image" src="../images/NGA.png">
+  <p align="center">
+  <img class="ui small image" width="460" height="300" src="../images/images.jpg">
+</p>
   
 ### Imagery Intelligence in the words of the U.S Naval War College is:
 > *Imagery Intelligence (IMINT) includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, infrared sensors, lasers, and electro-optics.*
