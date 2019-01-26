@@ -22,7 +22,8 @@ summary: My career in the U.S Army Reserves brought me to GEOINT, Geospatial Int
 
 ### Geospatial Intelligence in the words of the National Geospatial Agency is:
 > *GEOINT is the exploitation and analysis of imagery and geospatial information that describes, assesses and visually depicts physical features and geographically referenced activities on the Earth.*
-class="ui small rounded images"> <img class="ui image" src="../images/NGA.png">
+ 
+ <img class="ui image" src="../images/NGA.png">
   
   
 ### Imagery Intelligence in the words of the U.S Naval War College is:
