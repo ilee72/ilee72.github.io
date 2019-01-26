@@ -20,8 +20,8 @@ I've been on this project for two semesters and this semester will make it my th
   <img class="ui image" src="../images/KaliLinux.JPG">
   </div>
 This book is available online as a PDF for everyone to download and use. Some of the methods and equipment used is outdated today as this booklet came out in 2015. We had problems with certain methods as our equipment could not support the outdated security systems such as WPS or certain enterprise systems. We had a lot of trouble understanding the material as the pictures provided did not match the methods they asked us to do. Overall, we were able to accomplish the basics of cracking WEP and WPA keys. We have also gained proficiency and familiarity with using Wireshark and Kali Linux's terminal to use aircrack-ng, airodump-ng, and aireplay-ng. 
-```
-Below are examples of the few attacks to crack a WEP key. We did more this semester, but there is too much information to share.
+
+**Below are examples of the few attacks to crack a WEP key. We did more this semester, but there is too much information to share.**
 ## Hirte Attack
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Hirte Attack.JPG">
@@ -37,7 +37,8 @@ Below are examples of the few attacks to crack a WEP key. We did more this semes
 <div class="ui small rounded images">
   <img class="ui image" src="../images/kali attempt 2.JPG">
   </div>
-```  
+  
+
 ## 2) Practical Packet Analysis 2nd Edition - Using Wireshark to Solve Real-World Network Problem
 *Practical Packet Analysis 2nd Edition* is a crash course guide to network protocols and packet analysis. It goes over mostly Wireshark and its many features and methods in regards to capturing packets, analyzing packets, and the different type of protocols you would encounter. Our team did not go as in-depth with this book as the others and we are hoping to go more in-depth this semester.
 <div class="ui small rounded images">
