@@ -26,7 +26,7 @@ This scholarship has been a great opportunity to really take a glimpse into the 
 # Job Fair 2019 in Washington D.C
 
 <p align="center">
-  <img class ="ui medium rounded image" width="460" height="300" src="../images/1.jpg">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/1.jpg">
 </p>
 
 Here, we were at a job fair during the government shutdown where agencies, research labs, departments, bereaus, and other specialized organizations were recruiting prospective interns and employees. We were introduced to so many unknown entities that not many people see or hear of.
