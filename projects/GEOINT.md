@@ -25,11 +25,17 @@ summary: My career in the U.S Army Reserves brought me to GEOINT, Geospatial Int
  
 
   <p align="center">
-  <img class="ui small image" width="460" height="300" src="../images/images.jpg">
+  <img class="ui medium image" width="460" height="300" src="../images/images.jpg">
 </p>
+  
+
   
 ### Imagery Intelligence in the words of the U.S Naval War College is:
 > *Imagery Intelligence (IMINT) includes representations of objects reproduced electronically or by optical means on film, electronic display devices, or other media. Imagery can be derived from visual photography, radar sensors, infrared sensors, lasers, and electro-optics.*
+
+ <p align="center">
+  <img class="ui medium image" width="460" height="300" src="../images/imint-ph.jpg">
+</p>
 
 ## Intelligence Disciplines
 In the intelligence community, these two disciplines are often linked together for good reason. Besides other intelligence disciplines that have been glamorized by Hollywood like the Human and Counter Intelligence disciplines used by the CIA and FBI like the Jason Bourne or Mission Impossible movies, GEOINT has not had much of a presence to the average American. However, it is a growing field of importance that influences satellite imagery, mapping, and geospatial data analytics. Google Maps, Digital Globe, and the GPS are just useful tools that many people today could not live without. It's presence in both national security and in industry are critical.
