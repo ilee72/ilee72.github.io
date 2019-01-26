@@ -41,19 +41,19 @@ summary: My career in the U.S Army Reserves brought me to GEOINT, Geospatial Int
 In the intelligence community, these two disciplines are often linked together for good reason. Besides other intelligence disciplines that have been glamorized by Hollywood like the Human and Counter Intelligence disciplines used by the CIA and FBI like the Jason Bourne or Mission Impossible movies, GEOINT has not had much of a presence to the average American. However, it is a growing field of importance that influences satellite imagery, mapping, and geospatial data analytics. Google Maps, Digital Globe, and the GPS are just useful tools that many people today could not live without. It's presence in both national security and in industry are critical.
 ## Look at this! Can you find Waldo?
 
-### Here is Imagery that supports National Disasters
+### Geospatial Product supporting Natural Disasters
 
  <p align="center">
   <img class="ui large image" width="460" height="300" src="../images/Hurricane Irma product2.PNG">
 </p>
 
-## Synthetic Aperture Radar
+### Synthetic Aperture Radar
 
 <p align="center">
   <img class="ui large image" width="460" height="300" src="../images/SAR.jpg">
 </p>
 
-## Thermal Imagery
+### Thermal Imagery
 
 <p align="center">
   <img class="ui large image" width="460" height="300" src="../images/thermal.jpg">
