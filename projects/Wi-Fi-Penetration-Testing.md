@@ -17,5 +17,5 @@ I've been on this project for two semesters and this semester will make it my th
 ### 1) Kali Linux Wireless Penetration Testing (Beginner's Guide)
 *Kali Linux Wireless Penetration Testing Beginner's Guide* is an open source packet containing information on the the equipment needed, methods used, and the basics of what is going on during network protocol. It is written by Vivek Ramachandran and Cameron Buchanan. Both authors are experienced professionals in their fields, Vivek is a leader in Wi-Fi security while Cameron is a penetration tester and writer.
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/KaliLinux.jpg">
+  <img class="ui image" src="../images/KaliLinux.JPG">
   </div>
