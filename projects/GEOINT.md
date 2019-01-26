@@ -41,11 +41,25 @@ summary: My career in the U.S Army Reserves brought me to GEOINT, Geospatial Int
 In the intelligence community, these two disciplines are often linked together for good reason. Besides other intelligence disciplines that have been glamorized by Hollywood like the Human and Counter Intelligence disciplines used by the CIA and FBI like the Jason Bourne or Mission Impossible movies, GEOINT has not had much of a presence to the average American. However, it is a growing field of importance that influences satellite imagery, mapping, and geospatial data analytics. Google Maps, Digital Globe, and the GPS are just useful tools that many people today could not live without. It's presence in both national security and in industry are critical.
 ## Look at this! Can you find Waldo?
 
+### Here is Imagery that supports National Disasters
+
  <p align="center">
-  <img class="ui medium image" width="460" height="300" src="../images/Hurricane Irma product2.PNG">
+  <img class="ui large image" width="460" height="300" src="../images/Hurricane Irma product2.PNG">
 </p>
 
-This is just one example of what we do with GEOINT. It provides a new perspective on situations that other disciplines cannot bring. The amount of information mixed with geospatial data can provide policymakers unfounded power in making decisions.
+## Synthetic Aperture Radar
+
+<p align="center">
+  <img class="ui large image" width="460" height="300" src="../images/SAR.jpg">
+</p>
+
+## Thermal Imagery
+
+<p align="center">
+  <img class="ui large image" width="460" height="300" src="../images/thermal.jpg">
+</p>
+
+These are just a few examples of what we do with GEOINT. It provides a new perspective on situations that other disciplines cannot bring. The amount of information mixed with geospatial data can provide policymakers unfounded power in making decisions.
 As an reservist, with whatever minimal time I have, I train by working trying to make products, taking classes on advanced imagery and geospatial methods, learning from full-time professionals, and learning the technical aspect of ARCGIS and Python that enables the creation of products as well as the sensors and platforms that enable imagery. 
 
 ## What I've gotten out of this
