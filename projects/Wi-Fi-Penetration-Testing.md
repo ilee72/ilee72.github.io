@@ -12,10 +12,27 @@ labels:
   - Aircrack-ng
 summary: The study of Wi-Fi penetration and injection to use to take down UAS and other devices using Wi-Fi.
 ---
-## Background to the College of Engineering Side of Projects
+# Background to the College of Engineering Side of Projects
 I've been on this project for two semesters and this semester will make it my third. For the engineering department, students must complete an engineering project or continue it for once for every year starting from their sophomore year to a capstone project in their senior year. For this project, we were tasked to learn the basics of the Kali Linux OS as well as the tools related to penetration testing, mainly Wireshark and aircrack-ng. We had to learn the basics of network protocol as well as how to sniff, spoof, and inject packets into communication protocols. We had to learn about the Wi-Fi security terms as well as the history and methods of Wi-Fi penetration attacks. We went over many of this with two instructional books: 
-### 1) Kali Linux Wireless Penetration Testing (Beginner's Guide)
+## 1) Kali Linux Wireless Penetration Testing (Beginner's Guide)
 *Kali Linux Wireless Penetration Testing Beginner's Guide* is an open source packet containing information on the the equipment needed, methods used, and the basics of what is going on during network protocol. It is written by Vivek Ramachandran and Cameron Buchanan. Both authors are experienced professionals in their fields, Vivek is a leader in Wi-Fi security while Cameron is a penetration tester and writer.
 <div class="ui small rounded images">
   <img class="ui image" src="../images/KaliLinux.JPG">
+  </div>
+This book is available online as a PDF for everyone to download and use. Some of the methods and equipment used is outdated today as this booklet came out in 2015. We had problems with certain methods as our equipment could not support the outdated security systems such as WPS or certain enterprise systems. We had a lot of trouble understanding the material as the pictures provided did not match the methods they asked us to do. Overall, we were able to accomplish the basics of cracking WEP and WPA keys. We have also gained proficiency and familiarity with using Wireshark and Kali Linux's terminal to use aircrack-ng, airodump-ng, and aireplay-ng. 
+
+## Hirte Attack
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Hirte Attack.JPG">
+  </div>
+  
+## Caffe Latte Attack
+**This was a failure**
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/cafelatte2.0.JPG">
+  </div>
+  
+**This was a success**
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/kali attempt 2.JPG">
   </div>
