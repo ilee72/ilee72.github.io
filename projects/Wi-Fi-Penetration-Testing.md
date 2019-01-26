@@ -26,20 +26,20 @@ This book is available online as a PDF for everyone to download and use. Some of
 
 **Below are examples of the few attacks to crack a WEP key. We did more this semester, but there is too much information to share.**
 ## Hirte Attack
-<div class="ui small rounded images">
+
   <img class="ui image" src="../images/Hirte Attack.JPG">
-  </div>
+
   
 ## Caffe Latte Attack
 **This was a failure**
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/cafelatte2.0.JPG">
-  </div>
+
+  <img class="ui large left floated rounded images" src="../images/cafelatte2.0.JPG">
+ 
   
 **This was a success**
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/kali attempt 2.JPG">
-  </div>
+
+  <img class="ui large right floated rounded images" src="../images/kali attempt 2.JPG">
+ 
   
 
 ## 2) Practical Packet Analysis 2nd Edition - Using Wireshark to Solve Real-World Network Problem
