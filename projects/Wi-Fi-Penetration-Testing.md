@@ -21,7 +21,7 @@ I've been on this project for two semesters and this semester will make it my th
 *Kali Linux Wireless Penetration Testing Beginner's Guide* is an open source packet containing information on the the equipment needed, methods used, and the basics of what is going on during network protocol. It is written by Vivek Ramachandran and Cameron Buchanan. Both authors are experienced professionals in their fields, Vivek is a leader in Wi-Fi security while Cameron is a penetration tester and writer.
 
 <p align="center">
-  <img class ="ui image" width="460" height="300" src="../images/KaliLinux.JPG">
+  <img class ="ui medium image" width="460" height="300" src="../images/KaliLinux.JPG">
 </p>
  
 This book is available online as a PDF for everyone to download and use. Some of the methods and equipment used is outdated today as this booklet came out in 2015. We had problems with certain methods as our equipment could not support the outdated security systems such as WPS or certain enterprise systems. We had a lot of trouble understanding the material as the pictures provided did not match the methods they asked us to do. Overall, we were able to accomplish the basics of cracking WEP and WPA keys. We have also gained proficiency and familiarity with using Wireshark and Kali Linux's terminal to use aircrack-ng, airodump-ng, and aireplay-ng. 
