@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Is this like Grammarly?
+title: Is this like Grammarly
 date: 2019-02-07
 labels:
   - Technical Essay
