@@ -8,7 +8,7 @@ labels:
   - Javascript
   - Software Engineering
 ---
-## Inndustrial Society and Its Future
+## Industrial Society and Its Future
 Now, we all know about the Unabomber Manifesto. In short, one of his messages was the increasing complexity of problems that come with each technological endeavor. This piece is controversial, but I find that this message resonates with what I've observed. He states that technology is only forward moving and depends on the the progress of all fields of sciences that are interdepedent with each other. Each technological step forward produces more and more unforeseen problems. He slightly talks about genetic engineering as an example of the myriad of ethical issues that were produced when its concept was first conceived and practiced till today. We can apply that to almost everything we see as "good" and "bad" technology depend on each other. Facebook requires users, computers, network engineering, and so much more to function. Everything is a combination of things that were created by things that we had created. Each little piece brought forth problems that created more problems as we progressed. What I'm trying to say is, ethical issues will continually persist with each new innovation that appears. The author, Ted, thinks this is an upfront against humanity as it is the thing that will eventually lead to our freedom to diminish through continual compromises that take small bites of us at every step of technological progress in the name of society. 
 
 ## Thoughts on the Articles and what the Unabomber Manifesto Says
