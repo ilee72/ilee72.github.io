@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cclogo.jpg
+image: images/alohastudy.png
 title: Aloha Study
 permalink: projects/alohastudy
 # All dates must be YYYY-MM-DD format!
