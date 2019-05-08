@@ -14,7 +14,6 @@ labels:
  
 summary: In ICS 314, my team creates a website for students to find lists of study spots with many features for our final project.
 ---
-# Aloha Study
 
 <p align="left">
   <img class ="ui small image" width="460" height="300" src="../images/alohastudy.png">
