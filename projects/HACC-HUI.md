@@ -28,7 +28,7 @@ The Hawaii Annual Code Challenge would bring approximately 200 developers every 
 At the beginning of the semester, we were split into teams of four to five. I was part of team MIJJ which had the first letters of our names from Manalu, Isaac, Joshua and Joel. During the first half of the semester, our team worked on milestone's with four to five issues with each being claimed by each member. We would use Discord to decide which issues we wanted and would then implement the issues by ourselves. If we ran into any issues, we would immediately ask for help on discord. The other members of my team did more of leadership and asking questions while I took requests. 
 
 <p align="center">
-  <img class ="ui large rounded image" width="460" height="300" src="../images/team.png">
+  <img class ="ui large image" width="600" height="480" src="../images/team.png">
 </p>
 
 This system went on for Milestone 1 and 2 when we were able to finish these issues and grab the best of the implementations from teams. However, due to time constraints and the inability to get the code from different sources to merge well, we eventually moved toward working from one master repository to ensure that there would be code interoperability amongst 20+ coders. Within this Final Sprint, we more or less broke our teams and started working on individual tasks from a large list of issues. Eventually, I cooperated with people with issues that were interconnected with mine. Communication became ad hoc with questions and I even went to other random members asking for advice on how to implement code to solve an issue. 
