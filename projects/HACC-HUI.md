@@ -33,6 +33,21 @@ I became heavily invested in the implementation of the Slack bot and database so
 
 # Milestones and Final Sprint
 
+## Milestone 1
+[Milestone 1 GitHub](https://github.com/MIJJ-HACC/HACC-Hui/projects/5)
+[Milestone 1 Specs](https://hacc-hui.github.io/docs/requirements/milestone1)
+
+For Milestone 1, I worked primarily on issue US-D4 Backend Create Team Page. I essentially created a page for the creation of a team by any user. This page would have fields for team leaders to fill out that would ensure that the name of the team, challenges, skills, tools, description, and availability would be shown for other participants to see. The page was very simple and plain as I focused primarily on getting the functionality rather than the look and style of the page. I had problems figuring out the database and how to ensure that the information filled out by the team leader would be saved.
+
+## Milestone 2
+[Milestone 2 GitHub](https://github.com/MIJJ-HACC/HACC-Hui/projects/6)
+[Milestone 2 Specs](https://hacc-hui.github.io/docs/requirements/milestone2)
+
+For Milestone 2, I worked on issue US-D6 Delete Team. I was to allow for only the team leader to see the team that he own and enable him to be able to delete his team. This meant that I made sure to check if the user was the owner of the team and that he could see the button. This ensured that no random person or teammate could accidently delete the team without permission. Next, I worked on making the button visible for the owner and that once he clicked the button, he would receive a warning of his permanent decision. Once he clicked the button, a sweet alert would confirm that the deletion was successful. 
+
+## Final Sprint
+
+
 # Conclusion
 ICS 414's project was one of the most intense experiences to date. It was stressful trying to keep up with other schoolwork and then invest hours into trying to make an issue work. I felt that a quarter of the time was spent trying to make Meteor and React to work by troubleshooting;the other quarter was spent trying to research how to implement the functionality needed and that the other half of time was spent trying to make it work. The time constraints were definitely one of the hardest aspects of the work and it feels very closely to real world development cycles. I realized how I had to manage my time and priorities as well as rely heavily on my team and, later, other members associated to my tasks. 
 
