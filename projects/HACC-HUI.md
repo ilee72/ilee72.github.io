@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cclogo.jpg
+image: images/hacc.png
 title: HACC-HUI ICS 414
 permalink: projects/hacc-hui
 # All dates must be YYYY-MM-DD format!
@@ -19,10 +19,10 @@ summary: HACC-HUI provided an easy-to-use virtual registration and team formatio
 ## ICS 414 and HACC 2020
 
 <p align="center">
-  <img class ="ui large rounded image" width="460" height="300" src="../images/1.jpg">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/haccLogo.png">
 </p>
 
-The Hawaii Annual Code Challenge would bring approximately 200 developers every year. This amount of participants made forming teams a difficult task for participants and administrators. This obstacle became more apparent when the pandemic happened which resulted in no in-person meeting for HACC 2020. ICS 414 Software Engineering II was tasked by the hackathon hosts to build an application that allowed for easy registration and team formation for participants. This application used tool we used from ICS 314 including React, Meteor, MongoDB, and Semantic-UI. This was the first time ICS 414 would take on such a task and it was unprecendented. 
+The Hawaii Annual Code Challenge would bring approximately 200 developers every year. This amount of participants made forming teams a difficult task for participants and administrators. This obstacle became more apparent when the pandemic happened which resulted in no in-person meeting for [HACC 2020](https://hacc.hawaii.gov/). ICS 414 Software Engineering II was tasked by the hackathon hosts to build an application that allowed for easy registration and team formation for participants. This application used tool we used from ICS 314 including React, Meteor, MongoDB, and Semantic-UI. This was the first time ICS 414 would take on such a task and it was unprecendented. 
 
 ## Milestone 1
 
