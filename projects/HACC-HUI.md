@@ -23,6 +23,8 @@ summary: HACC-HUI provided an easy-to-use virtual registration and team formatio
 
 The Hawaii Annual Code Challenge would bring approximately 200 developers every year. This amount of participants made forming teams a difficult task for participants and administrators. This obstacle became more apparent when the pandemic happened which resulted in no in-person meeting for [HACC 2020](https://hacc.hawaii.gov/). ICS 414 Software Engineering II was tasked by the hackathon hosts to build an application that allowed for easy registration and team formation for participants. This application used tool we used from ICS 314 including React, Meteor, MongoDB, and Semantic-UI. This was the first time ICS 414 would take on such a task and it was unprecendented. 
 
+[HACC-HUI](https://hacchui.ics.hawaii.edu/)
+
 # Team Deployments
 
 At the beginning of the semester, we were split into teams of four to five. I was part of team MIJJ which had the first letters of our names from Manalu, Isaac, Joshua and Joel. During the first half of the semester, our team worked on milestone's with four to five issues with each being claimed by each member. We would use Discord to decide which issues we wanted and would then implement the issues by ourselves. If we ran into any issues, we would immediately ask for help on discord. The other members of my team did more of leadership and asking questions while I took requests. 
@@ -52,7 +54,29 @@ For Milestone 1, I worked primarily on issue US-D4 Backend Create Team Page. I e
 For Milestone 2, I worked on issue US-D6 Delete Team. I was to allow for only the team leader to see the team that he own and enable him to be able to delete his team. This meant that I made sure to check if the user was the owner of the team and that he could see the button. This ensured that no random person or teammate could accidently delete the team without permission. Next, I worked on making the button visible for the owner and that once he clicked the button, he would receive a warning of his permanent decision. Once he clicked the button, a sweet alert would confirm that the deletion was successful. 
 
 ## Final Sprint
+[Final Sprint GitHub](https://github.com/HACC-Hui/HACC-Hui)
 
+When it was realized that the difficulty of integrating the code of many teams into the master repo as well as the time constraints we faced, it was decided that all of us in the class were to work on all the issues at once and have access to one master repo. In essence, our entire class became one team to work on numerous issues. I worked primarily on the user interface design/style, integrating slack bot support with the application, and providing testing for other students like Wei Mai. 
+
+First, I worked on the implementation of the slack bot with the application. First, I ensured that when the bot could not understand what the user was typing, the slack bot would then send out a automated message that provided information to the user on what keywords to say.
+
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/dontunderstand.png">
+</p>
+
+Then, when the user used the right keywords such as "help" or "register", the bot would then provide the necessary information. If the user said "help", the bot would provide an automated message with a link to the help page of the website. If the user said "register", the bot would then provide the host domain url and their credentials for access to the website. 
+
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/register.png">
+</p>
+
+Finally, Wei Mai and I worked on allowing the bot to alert a team owner or applicant on whether they were sent a invite or had a user wanting to join their team. We tested this to ensure that only the necessary participant would get this vital information. This required us to access the database of team owners IDs and applicant IDs. We would then print out the statement with the retrieved ID name. 
+
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/teamrequest.png">
+</p>
+
+I then moved on from the slack bot integration to smaller issues regarding the style and visual look of certain pages. 
 
 # Conclusion
 ICS 414's project was one of the most intense experiences to date. It was stressful trying to keep up with other schoolwork and then invest hours into trying to make an issue work. I felt that a quarter of the time was spent trying to make Meteor and React to work by troubleshooting;the other quarter was spent trying to research how to implement the functionality needed and that the other half of time was spent trying to make it work. The time constraints were definitely one of the hardest aspects of the work and it feels very closely to real world development cycles. I realized how I had to manage my time and priorities as well as rely heavily on my team and, later, other members associated to my tasks. 
