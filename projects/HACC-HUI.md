@@ -45,6 +45,7 @@ I became heavily invested in the implementation of the Slack bot and database so
 
 For Milestone 1, I worked primarily on issue US-D4 Backend Create Team Page. I essentially created a page for the creation of a team by any user. This page would have fields for team leaders to fill out that would ensure that the name of the team, challenges, skills, tools, description, and availability would be shown for other participants to see. The page was very simple and plain as I focused primarily on getting the functionality rather than the look and style of the page. I had problems figuring out the database and how to ensure that the information filled out by the team leader would be saved.
 
+
 ## Milestone 2
 [Milestone 2 GitHub](https://github.com/MIJJ-HACC/HACC-Hui/projects/6)
 
