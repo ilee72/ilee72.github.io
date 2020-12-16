@@ -76,7 +76,33 @@ Finally, Wei Mai and I worked on allowing the bot to alert a team owner or appli
   <img class ="ui large rounded image" width="460" height="300" src="../images/teamrequest.png">
 </p>
 
-I then moved on from the slack bot integration to smaller issues regarding the style and visual look of certain pages. 
+I then moved on from the slack bot integration to smaller issues regarding the style and visual look of certain pages. For starters, I ensured that the landing page footer had padding. 
+
+Before:
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/beforefooter.png">
+</p>
+After:
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/afterfooter.png">
+</p>
+
+I worked on ensuring that the profile page had the contents not in bold.
+
+Before:
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/beforebold.png">
+</p>
+After:
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/afterbold.png">
+</p>
+
+I finally worked on the admin view page,which showed all teams, to ensure that it followed the theme colors and style, looked more like a list, highlighted non-compliant teams (teams with minor participants), and other errors on the page. 
+
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/highlight.png">
+</p>
 
 # Conclusion
 ICS 414's project was one of the most intense experiences to date. It was stressful trying to keep up with other schoolwork and then invest hours into trying to make an issue work. I felt that a quarter of the time was spent trying to make Meteor and React to work by troubleshooting;the other quarter was spent trying to research how to implement the functionality needed and that the other half of time was spent trying to make it work. The time constraints were definitely one of the hardest aspects of the work and it feels very closely to real world development cycles. I realized how I had to manage my time and priorities as well as rely heavily on my team and, later, other members associated to my tasks. 
