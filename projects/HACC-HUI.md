@@ -88,7 +88,7 @@ After:
   <img class ="ui large rounded image" width="460" height="300" src="../images/afterfooter.png">
 </p>
 
-I worked on ensuring that the profile page had the contents not in bold.
+I worked on ensuring that the profile page had the contents not in bold. This required me looking at each category to unbold each one. Challenges, Skills, and Tools and different ways that they were bolded that required me looking through different pages and widgets to try and unbold them. 
 
 Before:
 <p align="center">
@@ -99,7 +99,7 @@ After:
   <img class ="ui large rounded image" width="460" height="300" src="../images/afterbold.png">
 </p>
 
-I finally worked on the admin view page,which showed all teams, to ensure that it followed the theme colors and style, looked more like a list, highlighted non-compliant teams (teams with minor participants), and other errors on the page. 
+I finally worked on the admin view page,which showed all teams, to ensure that it followed the theme colors and style, looked more like a list, highlighted non-compliant teams (teams with minor participants), and other errors on the page. As you can see in the picture, I was able to successfully let the page fit the theme of the website as well as have all non-compliant teams be highlighted while not highlighting compliant teams. 
 
 <p align="center">
   <img class ="ui large rounded image" width="460" height="300" src="../images/highlight.png">
