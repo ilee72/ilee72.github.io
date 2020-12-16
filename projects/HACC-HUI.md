@@ -27,6 +27,10 @@ The Hawaii Annual Code Challenge would bring approximately 200 developers every 
 
 At the beginning of the semester, we were split into teams of four to five. I was part of team MIJJ which had the first letters of our names from Manalu, Isaac, Joshua and Joel. During the first half of the semester, our team worked on milestone's with four to five issues with each being claimed by each member. We would use Discord to decide which issues we wanted and would then implement the issues by ourselves. If we ran into any issues, we would immediately ask for help on discord. The other members of my team did more of leadership and asking questions while I took requests. 
 
+<p align="center">
+  <img class ="ui large rounded image" width="460" height="300" src="../images/team.png">
+</p>
+
 This system went on for Milestone 1 and 2 when we were able to finish these issues and grab the best of the implementations from teams. However, due to time constraints and the inability to get the code from different sources to merge well, we eventually moved toward working from one master repository to ensure that there would be code interoperability amongst 20+ coders. Within this Final Sprint, we more or less broke our teams and started working on individual tasks from a large list of issues. Eventually, I cooperated with people with issues that were interconnected with mine. Communication became ad hoc with questions and I even went to other random members asking for advice on how to implement code to solve an issue. 
 
 I became heavily invested in the implementation of the Slack bot and database so I worked heavily with Wei Mai who had experience with the database. At the same time, I had working accounts and could help provide quality assurance and testing for the database and Slack for Wei as well. Together, we were able to go over issues regarding the database as it was directly correlated with the Slack Bot's functionality which was what I focused on. 
@@ -35,12 +39,16 @@ I became heavily invested in the implementation of the Slack bot and database so
 
 ## Milestone 1
 [Milestone 1 GitHub](https://github.com/MIJJ-HACC/HACC-Hui/projects/5)
+
+
 [Milestone 1 Specs](https://hacc-hui.github.io/docs/requirements/milestone1)
 
 For Milestone 1, I worked primarily on issue US-D4 Backend Create Team Page. I essentially created a page for the creation of a team by any user. This page would have fields for team leaders to fill out that would ensure that the name of the team, challenges, skills, tools, description, and availability would be shown for other participants to see. The page was very simple and plain as I focused primarily on getting the functionality rather than the look and style of the page. I had problems figuring out the database and how to ensure that the information filled out by the team leader would be saved.
 
 ## Milestone 2
 [Milestone 2 GitHub](https://github.com/MIJJ-HACC/HACC-Hui/projects/6)
+
+
 [Milestone 2 Specs](https://hacc-hui.github.io/docs/requirements/milestone2)
 
 For Milestone 2, I worked on issue US-D6 Delete Team. I was to allow for only the team leader to see the team that he own and enable him to be able to delete his team. This meant that I made sure to check if the user was the owner of the team and that he could see the button. This ensured that no random person or teammate could accidently delete the team without permission. Next, I worked on making the button visible for the owner and that once he clicked the button, he would receive a warning of his permanent decision. Once he clicked the button, a sweet alert would confirm that the deletion was successful. 
